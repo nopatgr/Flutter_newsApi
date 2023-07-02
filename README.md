@@ -1,5 +1,8 @@
-| ------ | ------- |
-| Nova Tegar | 312010145 |
+| Nama | Nova Tegar Adiyansyah |
+| ------- | ------- |
+| Nim | 312010145 |
+| Kelas | TI.20.A1 |
+
 
 ## News App Flutter [![GitHub stars](https://img.shields.io/github/stars/j-j-gajjar/FLUTTER_NewsApp?style=social)](https://github.com/login?return_to=%2Fj-j-gajjar%FLUTTER_NewsApp) ![GitHub forks](https://img.shields.io/github/forks/j-j-gajjar/FLUTTER_NewsApp?style=social)
 
