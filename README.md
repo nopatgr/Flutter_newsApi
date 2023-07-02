@@ -23,6 +23,5 @@ Aplikasi Berita Flutter adalah aplikasi berita sederhana yang dibangun dengan Fl
 ![p](ScreenShots/news%204.png)
 
 
+### Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita di Indonesia
 https://newsapi.org/s/indonesia-news-api
-### 
-Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita di Indonesia
