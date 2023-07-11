@@ -9,7 +9,7 @@
 
 # Getting Started
 
-<b> NewsApp </b>
+### NewsApp 
 <br>
 ![p](ScreenShots/as1.png)
 
