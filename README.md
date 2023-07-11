@@ -9,7 +9,8 @@
 
 # Getting Started
 
-### NewsApp 
+### NewsApp
+
 ![p](ScreenShots/as1.png)
 
 ### Memilih kata kunci berita
@@ -24,3 +25,5 @@
 ### Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita
 
 https://newsapi.org/
+
+`![Thumbs Up](https://media.giphy.com/media/3o7aD2W8v6nKjeUViU/giphy.gif)`
