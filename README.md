@@ -10,15 +10,17 @@
 # Getting Started
 
 <b> NewsApp </b>
-
+<br>
 ![p](ScreenShots/as1.png)
 
 ### Memilih kata kunci berita
+
 ![p](ScreenShots/as2.png)
 
 <br>
 
 ![p](ScreenShots/as3.png)
+<br>
 
 ### Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita
 
