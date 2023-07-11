@@ -10,7 +10,6 @@
 # Getting Started
 
 ### NewsApp 
-<br>
 ![p](ScreenShots/as1.png)
 
 ### Memilih kata kunci berita
