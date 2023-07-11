@@ -26,5 +26,7 @@
 
 https://newsapi.org/
 
-![Thumbs Up](https://media.giphy.com/media/l3E6tfnrASiOukiKk/giphy.gif)
+<br>
 
+### =================================== ###
+![Thumbs Up](https://media.giphy.com/media/l3E6tfnrASiOukiKk/giphy.gif)
