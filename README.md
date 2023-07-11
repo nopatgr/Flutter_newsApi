@@ -26,4 +26,4 @@
 
 https://newsapi.org/
 
-::[loop](https://media.giphy.com/media/l3E6tfnrASiOukiKk/giphy.gif)::
+`![Thumbs Up](https://media.giphy.com/media/l3E6tfnrASiOukiKk/giphy.gif)`
