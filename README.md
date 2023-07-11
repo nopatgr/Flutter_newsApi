@@ -12,6 +12,8 @@
 <b> NewsApp </b>
 
 ![p](ScreenShots/as1.png)
+
+### Memilih kata kunci berita
 ![p](ScreenShots/as2.png)
 
 <br>
